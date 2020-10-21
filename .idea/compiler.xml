@@ -9,12 +9,14 @@
         <module name="Spring-02-DI-SetterInjection" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-02-DI_ConstuctorInjection" />
+        <module name="Spring-03-BeanScope-Singleton-Prototype" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring-01-SpringContainer" target="1.8" />
       <module name="Spring-02-DI-SetterInjection" target="1.8" />
       <module name="Spring-02-DI_ConstuctorInjection" target="1.8" />
+      <module name="Spring-03-BeanScope-Singleton-Prototype" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

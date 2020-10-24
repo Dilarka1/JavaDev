@@ -12,6 +12,8 @@
         <module name="Spring-03-BeanScope-Singleton-Prototype" />
         <module name="Spring-05-JavaAnnotations-Component" />
         <module name="Spring-02-DI-SetterInjection" />
+        <module name="Spring-06-JavaCode-Configuration" />
+        <module name="Spring-05-Value" />
         <module name="Spring-02-DI_ConstuctorInjection" />
         <module name="Spring-04-BeanLifeCycle" />
         <module name="Spring-05-JavaAnnotations-Qualifier" />
@@ -26,6 +28,8 @@
       <module name="Spring-04-BeanLifeCycle" target="1.8" />
       <module name="Spring-05-JavaAnnotations-Component" target="1.8" />
       <module name="Spring-05-JavaAnnotations-Qualifier" target="1.8" />
+      <module name="Spring-05-Value" target="1.8" />
+      <module name="Spring-06-JavaCode-Configuration" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

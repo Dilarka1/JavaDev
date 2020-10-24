@@ -29,7 +29,7 @@
       <module name="Spring-05-JavaAnnotations-Component" target="1.8" />
       <module name="Spring-05-JavaAnnotations-Qualifier" target="1.8" />
       <module name="Spring-05-Value" target="1.8" />
-      <module name="Spring-06-JavaCode-Configuration" target="1.5" />
+      <module name="Spring-06-JavaCode-Configuration" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d4a06b7-9fa3-48f0-af5a-749406dbd1c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Spring-07-SpringBoot-loc-DI-Lab/src/main/java/com/cybertek/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/src/main/java/com/cybertek/CarpetTraderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork/CarpetTrader/src/test/java/com/cybertek/CarpetTraderApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-07-SpringBoot-loc-DI-Lab/src/main/java/com/cybertek/CybertekLabApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-07-SpringBoot-loc-DI-Lab/src/main/java/com/cybertek/CybertekLabApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-07-SpringBoot-loc-DI-Lab/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-07-SpringBoot-loc-DI-Lab/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jZzm4I2jScbtb3TKjO7NKWC4bx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CarpetTrader/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cybertek" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CarpetTrader/src/main/resources" />
+      <recent name="$PROJECT_DIR$/CarpetTrader/src/main/java/com/cybertek" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CybertekLabApplication">
+    <configuration name="CybertekApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.CybertekApp" />
+      <module name="HomeWork-CarpetSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HallWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.services.roomType.HallWay" />
+      <module name="HomeWork-CarpetSolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.services.roomType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CybertekApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="CarpetTrader" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cybertek.CybertekApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CybertekLabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Spring-07-SpringBoot-loc-DI-Lab" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cybertek.CybertekLabApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CybertekApp" />
+        <item itemvalue="Application.HallWay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d4a06b7-9fa3-48f0-af5a-749406dbd1c7" name="Default Changelist" comment="" />
+      <created>1604026560545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604026560545</updated>
+      <workItem from="1604026562822" duration="17735000" />
+      <workItem from="1604165018887" duration="2007000" />
+      <workItem from="1604193442581" duration="5944000" />
+      <workItem from="1604244963130" duration="6953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1604252213210">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="712" y="158" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1604252213210" />
+    <state x="712" y="158" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1604244498768" />
+    <state x="164" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604251068656">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="164" y="353" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.806@0.23.1440.806" timestamp="1604251068656" />
+    <state x="164" y="354" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.808@0.23.1440.808" timestamp="1604196750860" />
+    <state x="384" y="310" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1604251071861">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="384" y="310" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.806@0.23.1440.806" timestamp="1604251071861" />
+    <state x="384" y="311" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.808@0.23.1440.808" timestamp="1604196752897" />
+    <state x="361" y="101" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604118891171">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="361" y="101" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.808@0.23.1440.808" timestamp="1604118891171" />
+    <state width="1363" height="196" key="GridCell.Tab.0.bottom" timestamp="1604367328103">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1363" height="196" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1604275182423" />
+    <state width="1363" height="196" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1604198985428" />
+    <state width="1363" height="196" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1604367328103" />
+    <state width="1125" height="196" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1604125569443" />
+    <state width="1125" height="196" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1604123844068" />
+    <state width="1363" height="196" key="GridCell.Tab.0.center" timestamp="1604367328102">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1363" height="196" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1604275182421" />
+    <state width="1363" height="196" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1604198985421" />
+    <state width="1363" height="196" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1604367328102" />
+    <state width="1125" height="196" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1604125569442" />
+    <state width="1125" height="196" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1604123844067" />
+    <state width="1363" height="196" key="GridCell.Tab.0.left" timestamp="1604367328101">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1363" height="196" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1604275182421" />
+    <state width="1363" height="196" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1604198985408" />
+    <state width="1363" height="196" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1604367328101" />
+    <state width="1125" height="196" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1604125569440" />
+    <state width="1125" height="196" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1604123844066" />
+    <state width="1363" height="196" key="GridCell.Tab.0.right" timestamp="1604367328103">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1363" height="196" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1604275182422" />
+    <state width="1363" height="196" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1604198985422" />
+    <state width="1363" height="196" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1604367328103" />
+    <state width="1125" height="196" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1604125569442" />
+    <state width="1125" height="196" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1604123844067" />
+    <state width="1363" height="196" key="GridCell.Tab.1.bottom" timestamp="1604367328105">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1363" height="196" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1604275182425" />
+    <state width="1363" height="196" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1604198985436" />
+    <state width="1363" height="196" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1604367328105" />
+    <state width="1363" height="196" key="GridCell.Tab.1.center" timestamp="1604367328104">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1363" height="196" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1604275182424" />
+    <state width="1363" height="196" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1604198985434" />
+    <state width="1363" height="196" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1604367328104" />
+    <state width="1363" height="196" key="GridCell.Tab.1.left" timestamp="1604367328104">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1363" height="196" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1604275182423" />
+    <state width="1363" height="196" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1604198985432" />
+    <state width="1363" height="196" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1604367328104" />
+    <state width="1363" height="196" key="GridCell.Tab.1.right" timestamp="1604367328104">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1363" height="196" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1604275182424" />
+    <state width="1363" height="196" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1604198985435" />
+    <state width="1363" height="196" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1604367328104" />
+    <state x="291" y="23" key="SettingsEditor" timestamp="1604196143115">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="291" y="23" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1604165407406" />
+    <state x="291" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1604196143115" />
+    <state x="171" y="88" key="new project wizard" timestamp="1604196126016">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="171" y="88" key="new project wizard/0.23.1440.801@0.23.1440.801" timestamp="1604165925944" />
+    <state x="171" y="88" key="new project wizard/0.23.1440.804@0.23.1440.804" timestamp="1604193642464" />
+    <state x="171" y="88" key="new project wizard/0.23.1440.808@0.23.1440.808" timestamp="1604196126016" />
+  </component>
+</project>

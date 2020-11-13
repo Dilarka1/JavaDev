@@ -33,16 +33,33 @@ public class HomeController {
     }
 
     @GetMapping("/home/{name}")
-    public String pathVariableEx(@PathVariable("name")String name){
+    public String pathVariableEx(@PathVariable("name") String name) {
         System.out.println("name is: " + name);
         return "home";
     }
 
-    @GetMapping("/home/{name}{email}")
-    public String pathVariableEx2(@PathVariable("name")String name, @PathVariable("email") String email){
+    @GetMapping("/home/{name}/{email}")
+    public String pathVariableEx2(@PathVariable("name") String name, @PathVariable("email") String email) {
         System.out.println("name is: " + name);
         System.out.println("email is: " + email);
         return "home";
     }
 
+    @GetMapping("home/course")
+    public String requestParamEx(@RequestParam("course") String course) {
+        System.out.println("name is: " + course);
+        return "home";
+    }
+
+//    @GetMapping(value="/course")
+//    public String requestParam2(@RequestParam(value = "name", required = false,defaultValue = "Cybertek")String name){
+//        System.out.println("name is: " + name);
+//        return "home";
+//    }
+
+    @GetMapping("home/course2")
+    public String requestParam2(@RequestParam(value = "course2", required = false, defaultValue = "Cybertek") String name) {
+        System.out.println("name is: " + name);
+        return "home";
+    }
 }

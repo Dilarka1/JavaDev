@@ -13,6 +13,7 @@
         <module name="Spring-06-JavaCode-PostConstruct-PreDestroy" />
         <module name="Spring-04-BeanLifeCycle" />
         <module name="Spring 05-JavaAnnotation-Autowired" />
+        <module name="Spring-08-SpringBoot-MVC-Model-View(Thymeleaf)" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-03-BeanScope-Singleton-Prototype" />
         <module name="Spring-05-JavaAnnotations-Component" />
@@ -37,6 +38,7 @@
       <module name="Spring-06-JavaCode-PostConstruct-PreDestroy" target="1.8" />
       <module name="Spring-07-SpringBoot-Demo" target="11" />
       <module name="Spring-08-SpringBoot-MVC-Controller" target="11" />
+      <module name="Spring-08-SpringBoot-MVC-Model-View(Thymeleaf)" target="11" />
       <module name="Spring-08-SpringBoot-MVC-Vew(Thymeleaf)" target="11" />
       <module name="Spring-08-SpringBoot-MVC-View(Thymeleaf)" target="11" />
       <module name="Spring-08-SpringBoot-MVC-View(Thymeleaf)1" target="11" />
@@ -46,6 +48,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Spring-07-SpringBoot-Demo" options="-parameters" />
       <module name="Spring-08-SpringBoot-MVC-Controller" options="-parameters" />
+      <module name="Spring-08-SpringBoot-MVC-Model-View(Thymeleaf)" options="-parameters" />
       <module name="Spring-08-SpringBoot-MVC-Vew(Thymeleaf)" options="-parameters" />
       <module name="Spring-08-SpringBoot-MVC-View(Thymeleaf)" options="-parameters" />
       <module name="Spring-08-SpringBoot-MVC-View(Thymeleaf)1" options="-parameters" />
